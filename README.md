@@ -7,7 +7,7 @@
 
 ### [schematic](https://raw.githubusercontent.com/ikechangexentrick/ChainReaction/master/ChainReaction_Trigger_v1.1_schematic.pdf)
 
-## ChainReaction-Trigger
+## ChainReaction-CV
 
 ![front view](https://raw.githubusercontent.com/ikechangexentrick/ChainReaction/images/IMG_2335_s.jpeg)
 
